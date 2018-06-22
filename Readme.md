@@ -16,9 +16,11 @@ Gostou do curso? Quer mais? Ajude com uma doacao, ate um cafe e valido.
 ############################################
 ## 	    Readime - TESTE               ##
 ##	----------------------------      ##
-##	| Author: Jo√o Paulo Alves |      ##
+##	| Author: Joao Paulo Alves |      ##
 ##	| Date: 22/06/2018         |      ##
 ## 	----------------------------      ##
-##                                        ##
+##   	   Brasil 2 X 0 Costa Rica        ##
 ##                                        ##
 ############################################
+
+
