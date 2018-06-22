@@ -10,3 +10,15 @@ Gostou do curso? Quer mais? Ajude com uma doacao, ate um cafe e valido.
 
 
 (<!-- Place this tag in your head or just before your close body tag. --> <script async defer src="https://buttons.github.io/buttons.js"></script>)
+
+
+
+############################################
+## 	    Readime - TESTE               ##
+##	----------------------------      ##
+##	| Author: Jo√o Paulo Alves |      ##
+##	| Date: 22/06/2018         |      ##
+## 	----------------------------      ##
+##                                        ##
+##                                        ##
+############################################
