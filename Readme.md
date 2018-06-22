@@ -27,5 +27,3 @@ Gostou do curso? Quer mais? Ajude com uma doacao, ate um cafe e valido.
 
 Outos cursos em: [joaopgioio.blogspot.com](http://joaopgioio.blogspot.com/)
 
-Alteração para testar o git reverse
-
